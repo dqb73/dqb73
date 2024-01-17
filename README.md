@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm a cloud security architect looking to enhance my hands-on skills!
+- Would love to collaborate on security-related projects
+  
 <!--
 **dqb73/dqb73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
